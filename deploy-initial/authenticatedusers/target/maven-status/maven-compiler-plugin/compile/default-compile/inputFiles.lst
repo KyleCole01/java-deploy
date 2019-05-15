@@ -1,0 +1,15 @@
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\service\UserServiceImpl.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\SeedData.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\service\UserService.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\repository\RoleRepository.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\config\SecurityConfig.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\config\AuthorizationServerConfig.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\config\WebConfig.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\repository\UserRepository.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\model\Auditable.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\AuthenticatedusersApplication.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\config\ResourceServerConfig.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\config\Swagger2Config.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\model\User.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\model\Role.java
+C:\Users\jrmmb\IdeaProjects\authenticatedusers\src\main\java\com\lambdaschool\authenticatedusers\controller\UserController.java

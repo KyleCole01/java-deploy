@@ -1,0 +1,16 @@
+com\lambdaschool\authenticatedusers\model\Auditable.class
+com\lambdaschool\authenticatedusers\service\UserService.class
+com\lambdaschool\authenticatedusers\config\AuthorizationServerConfig.class
+com\lambdaschool\authenticatedusers\config\WebConfig$1.class
+com\lambdaschool\authenticatedusers\repository\UserRepository.class
+com\lambdaschool\authenticatedusers\service\UserServiceImpl.class
+com\lambdaschool\authenticatedusers\model\Role.class
+com\lambdaschool\authenticatedusers\AuthenticatedusersApplication.class
+com\lambdaschool\authenticatedusers\config\WebConfig.class
+com\lambdaschool\authenticatedusers\config\SecurityConfig.class
+com\lambdaschool\authenticatedusers\config\Swagger2Config.class
+com\lambdaschool\authenticatedusers\controller\UserController.class
+com\lambdaschool\authenticatedusers\model\User.class
+com\lambdaschool\authenticatedusers\SeedData.class
+com\lambdaschool\authenticatedusers\config\ResourceServerConfig.class
+com\lambdaschool\authenticatedusers\repository\RoleRepository.class
